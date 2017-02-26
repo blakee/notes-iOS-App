@@ -24,7 +24,8 @@
 	url = https://github.com/kevin-hirsch/KVNProgress.git
 [submodule "Marklight"]
 	path = Marklight
-	url = https://github.com/macteo/Marklight.git
+	url = https://github.com/blakee/Marklight.git
+	branch = latest
 [submodule "Markingbird"]
 	path = Markingbird
 	url = https://github.com/kristopherjohnson/Markingbird.git
@@ -33,4 +34,4 @@
 	url = https://github.com/sindresorhus/github-markdown-css.git
 [submodule "SWMessages"]
 	path = SWMessages
-	url = git@github.com:phedlund/SWMessages.git
+	url = https://github.com/phedlund/SWMessages.git
